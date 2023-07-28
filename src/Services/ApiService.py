@@ -1,6 +1,5 @@
 from sys import stderr
 from io import StringIO
-import csv
 import pandas as pd
 import requests
 from datetime import date
